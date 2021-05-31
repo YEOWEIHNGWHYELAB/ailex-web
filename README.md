@@ -16,29 +16,43 @@ You need a Windows (x64/64-bit) machine.
 You may need to add an exception to your anti-virus to run this game. 
 
 
-Controls:
-Xbox
-Left ThumbStick -> Steering
-Right ThumbStick -> Control Perspective (Only works in First Person view of the vehicle)
-Left ThumStick Button -> Handbrake (Only on the Rear Wheels)
-Left Trigger -> Reverse
-Right Trigger -> Forward
+## Controls
+### Xbox
+Left ThumbStick -> Steering,
+
+Right ThumbStick -> Control Perspective (Only works in First Person view of the vehicle),
+
+Left ThumStick Button -> Handbrake (Only on the Rear Wheels),
+
+Left Trigger -> Reverse,
+
+Right Trigger -> Forward,
+
 Change View Button -> Toggle between First Person and Third Person
 
-Keyboard & Mouse
-W -> Forward
-A -> Left
-S -> Right
-D -> Reverse
-TAB -> Toggle between First Person and Third Person
+### Keyboard & Mouse
+W -> Forward,
+
+A -> Left,
+
+S -> Right,
+
+D -> Reverse,
+
+TAB -> Toggle between First Person and Third Person,
+
 Mouse -> Control Perspective (Only works in First Person view of the vehicle)
 
 
-Future Improvement:
+## Future Improvement
 AI driver
+
 Game Menu
+
 GUI to select different environment and agents
+
 Better Vehicle Dynamics
+
 Multiplayer Feature
 
 
