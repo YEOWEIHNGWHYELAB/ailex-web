@@ -2,6 +2,9 @@ This is a demo of what project AILEX's training environment and agents will look
 There is no menu for the game, so to quit the game you will need to hold ALT-TAB to close
 the windows manually.
 
+## Web View
+![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Website.png)
+
 ## Game View
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/Start.png?raw=true)
 
