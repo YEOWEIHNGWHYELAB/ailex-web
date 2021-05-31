@@ -4,6 +4,7 @@ the windows manually.
 
 
 Hardware & Software:
+
 This game is tested to worked on
 GPU: 940m CPU: i5 6200u Ram: 8GB 
 Size of Game: 539MB
@@ -12,6 +13,7 @@ You may need to add an exception to your anti-virus to run this game.
 
 
 Controls:
+
 Xbox
 Left ThumbStick -> Steering
 Right ThumbStick -> Control Perspective (Only works in First Person view of the vehicle)
@@ -30,6 +32,7 @@ Mouse -> Control Perspective (Only works in First Person view of the vehicle)
 
 
 Future Improvement:
+
 AI driver
 Game Menu
 GUI to select different environment and agents
