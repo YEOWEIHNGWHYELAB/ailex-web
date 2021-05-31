@@ -11,13 +11,14 @@ the windows manually.
 ## Traffic Systems & AI Adversary
 ![github-small](https://github.com/YEOWEIHNGWHYELAB/AILEX/blob/main/TrafficLights.png)
 
-Hardware & Software:
-This game is tested to worked on
-GPU: 940m CPU: i5 6200u Ram: 8GB 
-Size of Game: 539MB
-You need a Windows (x64/64-bit) machine.
-You may need to add an exception to your anti-virus to run this game. 
+##Download
+Download the file from https://yzhedwin.github.io/ailex-web/downloads/. Then extract it to a desired directory, double click on the MRT.exe file. You may need to add an exception to your anti-virus to run this game. This game only works on a Windows (x64/64-bit) machine.
 
+
+##Hardware & Software
+This game is tested to worked on
+GPU: Nvidia GT940m 2GB GDDR3 CPU: Intel i5-6200u Ram: 8GB 
+Size of Game: 539MB
 
 ## Controls
 ### Xbox
